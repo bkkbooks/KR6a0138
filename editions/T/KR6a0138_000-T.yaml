@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0138/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說力士移山經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0135.xml
+    old_id: T02n0135
+hash: sha256:776b5afcd752078fc5e0d0cf77391c151477f184c3833d787a747ba1cb4050e4
