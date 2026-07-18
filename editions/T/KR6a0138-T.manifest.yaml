@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0138_000-T.yaml, hash: 'sha256:776b5afcd752078fc5e0d0cf77391c151477f184c3833d787a747ba1cb4050e4'}
   - {seq: 1, filename: KR6a0138_001-T.yaml, hash: 'sha256:52d3c0c1b9072fd8c6e5b088d07bc5a8a546c43226395853436049654e71fbc4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0138_000-T.markers.yaml, hash: 'sha256:edc04eae5b29eaa20bdbcdc98079c7f390a839725e635e5a9e970eaa8f7d2759'}
+  - {seq: 0, role: markers, filename: assets/KR6a0138_000-T.markers.yaml, hash: 'sha256:5901c78eec1072037526c51417498722caa389efde71e37426684569242cd59c'}
   - {seq: 1, role: markers, filename: assets/KR6a0138_001-T.markers.yaml, hash: 'sha256:a2e772a3a669a95784710c19485e120a9737b53f91e03f54167e6666b8704fa7'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說力士移山經
   type: juan
   level: 1
-hash: sha256:ed29e94e418ae13f67575c9a99282502645ffb4e2068c47f355dbc40e8d00b1f
+hash: sha256:185819895a0859321418de274a68f95c6a87d1eb4a909db5b9a5030892a88d11
